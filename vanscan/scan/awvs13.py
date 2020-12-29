@@ -25,6 +25,8 @@ proxies={
     'https':'https://127.0.0.1:8080'
 }
 
+proxies = None
+
 #查看扫描目标列表
 def getscans():
     #print('getscans')
